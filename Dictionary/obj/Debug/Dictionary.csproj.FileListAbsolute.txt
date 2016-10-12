@@ -1,0 +1,13 @@
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary_MarkupCompile.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.g.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
